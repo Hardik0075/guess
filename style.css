@@ -102,7 +102,8 @@ button:hover{
 }
 h5{font-size: 1.5rem;
   margin-left: 5rem;
-  padding-bottom: 2rem;}
+  padding-bottom: 2rem;margin-bottom: 0rem;
+}
   .col{
    padding:4rem;
   }
